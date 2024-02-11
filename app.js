@@ -1,4 +1,4 @@
-require('dotenv').config()
+
 const express = require('express');
 const ejs = require('ejs')
 const app = express();
@@ -12,6 +12,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.use('/public', express.static(path.join(__dirname, 'public')))
 
+const images =["public/1200px-Flag_of_Brazil.svg.png", "ar-flag.webp", "brazil", "germany", "Flag-Spain", "Flag_of_Italy"]
 
 
 app.get("/", (req, res)=>{
