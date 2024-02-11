@@ -1,0 +1,80 @@
+body{
+    
+    color: white;
+    background-color: #1A1818;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
+.homepapge_div{
+    margin-top: 25%;
+   
+    display: flex;
+    justify-content: center;
+}
+
+.homepapge_div.h1{
+    display: block;
+}
+
+.country{
+    padding-left: 0;
+}
+
+.display{
+    background-color: #3C3C3C;
+   padding: 20px;
+}
+.login_signin{
+    padding-right: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flag{
+   width: 100px;
+}
+
+.img{
+
+    width: 80px;
+}
+
+.cells{
+    margin-top: 10px;
+}
+
+.login_signin{
+    margin: 20px;
+    font-size: 100px;
+
+}
+
+.login_btn{
+    margin: 10px;
+    margin-top: 10px;
+}
+
+h5{
+position: relative;
+bottom: 0;
+}
+
+.empty{
+    width: 100px;
+}
+
+.font{
+    font-family: 'Jockey One', sans-serif;
+}
+.main{
+    padding: 0px 50px 0px 50px;
+}
+
+.teams{
+    width: 150px;
+}
+
+.header{
+    display: flex;
+}
