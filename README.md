@@ -1,5 +1,6 @@
 # Champions Choice - Sports Betting App for FIFA World Cup 2026
 
+
 **Champions Choice** is a sports betting application built for the FIFA World Cup 2026. This app allows users to place bets on their favorite teams, analyze match outcomes using historical data, and place live bets during games for higher risk and reward.
 
 ## Features
@@ -52,20 +53,7 @@ MONGODB_URI=your_mongodb_uri
 npm start
 ```
 12.	Open your browser and navigate to http://localhost:3000 to access the app.
-File Structure
-```
-project-root/
-├── public/                 # Public assets (images, stylesheets)
-│   ├── 1200px-Flag_of_Brazil.svg.png
-│   ├── ar-flag.webp
-├── views/                  # EJS templates
-│   ├── index.ejs           # Landing page template
-│   ├── home.ejs            # Home page template
-├── .env                    # Environment variables file
-├── app.js                  # Main server file
-├── package.json            # Project metadata and dependencies
-└── README.md               # Project documentation
-```
+
 ## Available Routes
 
 •	/ - Renders the landing page (index.ejs).
