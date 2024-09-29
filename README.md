@@ -67,7 +67,9 @@ npm start
 •	Live Betting: Users can bet live during the game for higher risk and potentially greater rewards. This feature provides dynamic betting options as matches unfold.
 •	Brackets Page: Visualizes the matchups and outcomes of games based on the algorithm's predictions.
 •	User Authentication: Users can sign up, log in, and join the betting platform securely. Passwords are hashed using bcrypt for security.
-Future Improvements
+```
+## Future Improvements
+```
 •	Integration of real-time match statistics.
 •	Implementation of more complex algorithms using machine learning.
 •	Adding features like detailed team analytics and user dashboards.
