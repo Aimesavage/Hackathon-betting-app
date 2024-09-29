@@ -60,6 +60,7 @@ npm start
 •	/home - Renders the homepage showing betting options (home.ejs).
 
 ## Features Description
+```
 
 •	Homepage: The homepage lists the participating countries in the FIFA World Cup 2026, showing the probabilities of each country winning a match along with the betting prices.
 •	Algorithm: Champions Choice utilizes a custom algorithm that analyzes historical World Cup data to predict match outcomes. The algorithm considers past results of participating countries and factors such as whether a team is playing as the home or away team.
@@ -71,6 +72,7 @@ Future Improvements
 •	Implementation of more complex algorithms using machine learning.
 •	Adding features like detailed team analytics and user dashboards.
 •	Payment integration for real money betting (if legal in the applicable jurisdiction).
+```
 License
 This project is licensed under the MIT License.
  
